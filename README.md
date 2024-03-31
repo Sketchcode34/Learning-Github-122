@@ -19,5 +19,5 @@ Enjoy learning Python!
 - Make sure your code is well-documented.
 - Run the linter to make sure your code is formatted correctly.
 
-code of conduct
+--code of conduct
 Our community is dedicated to providing a welcoming and friendly environment for all people, regardless of their background or experience. All contributors are expected to treat each other with respect and courtesy. If you have any questions about the code of conduct, please contact the project maintainers.
