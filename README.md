@@ -1,4 +1,4 @@
-it This is a repository for learning Python.
+This is a repository for learning Python.
 It contains resources to help you get started with python.
 This resources include tutorials, code examples and exercises.
 These resources are designed to help you learn the basics of Python, including variables, functions, loops, and data structures.
