@@ -1,4 +1,4 @@
- This is a repository for learning Python.
+it This is a repository for learning Python.
 It contains resources to help you get started with python.
 This resources include tutorials, code examples and exercises.
 These resources are designed to help you learn the basics of Python, including variables, functions, loops, and data structures.
@@ -21,7 +21,7 @@ _Contributing checklist_
 - Make sure your code is well-documented.
 - Run the linter to make sure your code is formatted correctly.
 
-_code of conduct-
+_code of conduct_
 
 -Our community is dedicated to providing a welcoming and friendly environment for all people, regardless of their background or experience. All contributors are expected to treat each other with respect and courtesy. If you have any questions about the code of conduct, please contact the project maintainers.
 
