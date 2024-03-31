@@ -1,4 +1,4 @@
-This is a repository for learning Python.
+ This is a repository for learning Python.
 It contains resources to help you get started with python.
 This resources include tutorials, code examples and exercises.
 These resources are designed to help you learn the basics of Python, including variables, functions, loops, and data structures.
@@ -9,11 +9,13 @@ Thank you for using our resources. we hope you enjoy learning Python!.
 Feel free to make changes to this file, and experiment with the text. 
 Enjoy learning Python!
 
---Contributing
+_Contributing_
+
 - Make sure to read the contributing guidelines before contributing.
 - Make sure to test your changes before submitting a pull request.
 
---Contributing checklist
+_Contributing checklist_
+
 - Check that your code follows the coding conventions.
 - Run the tests to make sure they pass.
 - Make sure your code is well-documented.
@@ -65,6 +67,7 @@ _Technical skills_
  I have a wide range of skills that I use in my work as a developer. I'm proficient in multiple programming languages, including Python, Java, and JavaScript. I'm also familiar with popular frameworks like Django, Flask, and Spring. I'm experienced in using tools like Git, PyCharm, and Sublime Text. I have a strong background in testing, and I'm well-versed in unit testing, integration testing, and acceptance testing. In addition to my technical skills, I also have strong problem-solving, communication.
 
 _Experience_
+
  I've worked as a Python developer for several years. I've worked on a variety of projects, both in the public and private sector. I'm most proud of my work on Project ABC, where I implemented a Python-based solution that streamlined the company's data processing workflow. I've also worked on several open source projects, including the Python Package XYZ, which has been downloaded thousands of times. Through my experience, I've gained a deep understanding of the Python ecosystem and the best practices for developing with it.
 
 _Projects_
